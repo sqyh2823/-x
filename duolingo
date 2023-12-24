@@ -1,0 +1,8 @@
+# Streaming Media
+
+# > notion
+USER-AGENT,Disney+*
+DOMAIN-SUFFIX,notion.com
+DOMAIN-SUFFIX,notion.co
+DOMAIN-SUFFIX,notion.net
+DOMAIN-SUFFIX,notionstreaming.com
