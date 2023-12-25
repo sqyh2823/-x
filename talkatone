@@ -1,12 +1,13 @@
-# > talkatone
-DOMAIN,api.talkatoneapi.com
-DOMAIN,api.talkatoneapi.net
-DOMAIN,api.talkatone.com
-DOMAIN,app.talkatoneapi.com
-DOMAIN,app.talkatoneapi.net
-DOMAIN,app.talkatone.com
-DOMAIN,grpc.talkatoneapi.net
-DOMAIN,m.talkatone.com
-DOMAIN,upos-hz-mirrorakam.akamaized.net
-DOMAIN,www.talkatone.com
-DOMAIN-KEYWORD,us-hk-eq-bcache-
+# > paypal
+DOMAIN,api.paypalapi.com
+DOMAIN,api.paypalapi.net
+DOMAIN,api.paypal.com
+DOMAIN,app.paypalapi.com
+DOMAIN,app.paypalapi.net
+DOMAIN,app.paypal.com
+DOMAIN,grpc.paypalapi.net
+DOMAIN,m.paypal.com
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,paypal.net
+DOMAIN,www.paypal.com
+DOMAIN-KEYWORD,paypal
