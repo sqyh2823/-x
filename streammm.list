@@ -212,7 +212,6 @@ DOMAIN-SUFFIX,zeronet.io
 DOMAIN-SUFFIX,z-lib.org
 DOMAIN-SUFFIX,zophar.net
 DOMAIN-SUFFIX,zyxel.com
-DOMAIN-SUFFIX,jable.tv
 
 DOMAIN,cdn.jsdelivr.net
 DOMAIN,cdn.statically.io
@@ -240,7 +239,6 @@ DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,tenor.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-KEYWORD,google
-DOMAIN-KEYWORD,jable
 DOMAIN-KEYWORD,.blogspot.
 # > Apple
 DOMAIN,testflight.apple.com
