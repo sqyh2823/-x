@@ -1,0 +1,6 @@
+# Proxy
+
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,chat.deepseek.com
+DOMAIN-SUFFIX,OGOpenAI.com
+DOMAIN-KEYWORD,deepseek
