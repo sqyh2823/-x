@@ -2,5 +2,7 @@
 
 DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,chat.deepseek.com
+DOMAIN-SUFFIX,9game.cn
 DOMAIN-SUFFIX,OGOpenAI.com
 DOMAIN-KEYWORD,deepseek
+DOMAIN-KEYWORD,9game
